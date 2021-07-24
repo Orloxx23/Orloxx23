@@ -4,4 +4,4 @@
 
 - 💞️ I really like web development.
 
-- 📫 You can contact me through discord: Orloxx # 0001
+- 📫 You can contact me through discord: Orloxx # 0023

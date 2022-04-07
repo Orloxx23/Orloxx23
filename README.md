@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orlando Mina Madroñero</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Youtube videos and courses**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://orloxx23.github.io/OrlandoMm/](https://orloxx23.github.io/OrlandoMm/)
-
-- 💬 Ask me about **HTML, CSS, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

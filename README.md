@@ -2,25 +2,17 @@
 
 <h1 align="left">Hi 👋, I'm Orlando Mina Madroñero</h1>
 
-###
-
 <br clear="both">
 
 <p align="left">I'm a frontend developer with experience in React. I'm good at CSS and HTML as well as JavaScript. I love learning new things and experimenting with new technologies. I have a good eye for detail and always put my all into my work.</p>
-
-###
 
 <br clear="both">
 
 <p align="left">🌱 I’m currently learning English B1</p>
 
-###
-
 <br clear="both">
 
 <h4 align="left">Core technologies:</h4>
-
-###
 
 <br clear="both">
 
@@ -31,13 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h4 align="left">Connect with me:</h4>
-
-###
 
 <br clear="both">
 
@@ -49,8 +37,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 

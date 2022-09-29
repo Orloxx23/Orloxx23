@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning English B1</p>
+<p align="left">🌱 I’m currently learning **English B1**</p>
 
 ###
 

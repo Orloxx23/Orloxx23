@@ -10,17 +10,6 @@
 
 ###
 
-<h4 align="left">Core technologies:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-</div>
-
-###
-
 <h4 align="left">Connect with me:</h4>
 
 ###

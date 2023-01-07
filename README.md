@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=7C33F7&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Orlando+Mina+Madro%C3%B1ero)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=7C33F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Orlando+Mina+Madro%C3%B1ero)](https://git.io/typing-svg)
 ###
 
 <p align="left">I'm a frontend developer with experience in React. I'm good at CSS and HTML as well as JavaScript. I love learning new things and experimenting with new technologies. I have a good eye for detail and always put my all into my work.</p>

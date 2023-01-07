@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Orlando Mina Madroñero</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=7C33F7&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Orlando+Mina+Madro%C3%B1ero)](https://git.io/typing-svg)
 
 ###
 

@@ -29,6 +29,6 @@
 </div>
 
 ###
-<div id="counter" align="center">
+<div id="counter" align="left">
   <img src="https://komarev.com/ghpvc/?username=Orloxx23&style=flat-square&color=blue" alt=""/>
 </div>

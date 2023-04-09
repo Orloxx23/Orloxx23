@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Typescript</p>
+<p align="left">🌱 I’m currently learning Nextjs</p>
 
 ###
 

@@ -16,5 +16,4 @@ _I'm a frontend developer with experience in React. I'm good at CSS and HTML as 
 [![Discord Presence](https://lanyard.cnrad.dev/api/461282493153411082)](https://discord.com/users/461282493153411082?animated=true)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->

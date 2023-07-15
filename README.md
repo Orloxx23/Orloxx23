@@ -1,6 +1,6 @@
 
-| __Orlando Mina Madroñero__ | 21yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) | [![Learning](https://img.shields.io/badge/Currently_learning-Jest-<COLOR>.svg)](https://shields.io/) |
-|---|---|---|---|
+| __Orlando Mina Madroñero__ | 21yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) | [![Learning](https://img.shields.io/badge/Currently_learning-Jest-<COLOR>.svg)](https://shields.io/) | [orlandomm.me](https://orlandomm.me)
+|---|---|---|---|---|
 
 _I'm a frontend developer with experience in React. I'm good at CSS and HTML as well as JavaScript. I love learning new things and experimenting with new technologies. I have a good eye for detail and always put my all into my work._
 
@@ -12,16 +12,9 @@ _I'm a frontend developer with experience in React. I'm good at CSS and HTML as 
 
 ###
 
-## Contact
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/orlandomm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:orminamadro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 [![Discord Presence](https://lanyard.cnrad.dev/api/461282493153411082)](https://discord.com/users/461282493153411082?animated=true)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

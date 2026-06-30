@@ -1,5 +1,5 @@
 
-| __Orlando Mina Madroñero__ | 23yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) | [orlandomm.net](https://orlandomm.net)
+| __Orlando Mina Madroñero__ | 24yo | ![🇨🇴](https://flagcdn.com/16x12/co.png) | [orlandomm.net](https://orlandomm.net)
 |---|---|---|---|
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/461282493153411082)](https://discord.com/users/461282493153411082) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orloxx23&layout=compact) | 
